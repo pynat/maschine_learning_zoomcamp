@@ -1,0 +1,35 @@
+# VS Code specific
+.vscode/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# MacOS specific files
+.DS_Store
+
+# Environment files
+.env
+*.env
+
+# Jupyter Notebook large output files 
+*.h5
+*.csv
+*.db
+
+# Virtual environments
+venv/
+env/
+
+# Log files
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+
+# Jupyter Notebook hidden files
+*.ipynb_hidden
